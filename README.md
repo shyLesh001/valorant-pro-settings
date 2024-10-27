@@ -85,6 +85,4 @@ The analysis includes the following steps:
 4. Insights: Key takeaways from the analysis, such as common settings among top players.
 
 
-```
 
-You can customize the placeholder information such as the GitHub repository URL, your username, and contact details. Let me know if you need any further assistance or modifications!
